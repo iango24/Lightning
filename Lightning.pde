@@ -35,7 +35,6 @@ ellipse(800,0,250,150);
   startX = endX;
   startY = endY;
   }
-  System.out.println(mouseX + ", " + mouseY);
 }
 void mousePressed()
 {
